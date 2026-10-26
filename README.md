@@ -1,6 +1,6 @@
 # THRVE Pennsylvania trail pack: OpenStreetMap derived database
 
-THRVE (iOS) ships a Pennsylvania trail pack inside the app so it can draw trails offline. It makes no network calls. The pack is a derivative database of OpenStreetMap.
+THRVE (iOS) ships a Pennsylvania trail pack inside the app so it can draw trail lines offline. THRVE downloads nothing to show them (the trail data never comes from a network); Apple's base map under the trails loads map tiles from Apple. The pack is a derivative database of OpenStreetMap.
 
 ## Credit
 © OpenStreetMap contributors, ODbL. https://www.openstreetmap.org/copyright
