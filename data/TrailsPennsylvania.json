@@ -1,0 +1,17 @@
+{
+  "attribution": "\u00a9 OpenStreetMap contributors",
+  "extractDate": "2026-10-24",
+  "extractTimestamp": "2026-10-24T20:20:51Z",
+  "format": "THRVETP1",
+  "license": "ODbL 1.0",
+  "licenseURL": "https://opendatacommons.org/licenses/odbl/1-0/",
+  "namedTrailCount": 24666,
+  "packBytes": 6298580,
+  "pointCount": 2020450,
+  "region": "Pennsylvania",
+  "source": "OpenStreetMap",
+  "sourceURL": "https://download.geofabrik.de/north-america/us/pennsylvania-latest.osm.pbf",
+  "tileCount": 4645,
+  "tileSizeDegrees": 0.05,
+  "trailCount": 106565
+}

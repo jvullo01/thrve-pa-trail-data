@@ -1,0 +1,201 @@
+{
+ "version": 0.6,
+ "generator": "Overpass API fixture",
+ "osm3s": {
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+ },
+ "elements": [
+  {
+   "type": "way",
+   "id": 1001,
+   "bounds": {},
+   "geometry": [
+    {
+     "lat": 41.0,
+     "lon": -73.0
+    },
+    {
+     "lat": 41.001,
+     "lon": -73.0
+    },
+    {
+     "lat": 41.002,
+     "lon": -73.0
+    },
+    {
+     "lat": 41.003,
+     "lon": -73.0
+    },
+    {
+     "lat": 41.004,
+     "lon": -73.0
+    },
+    {
+     "lat": 41.005,
+     "lon": -73.0
+    },
+    {
+     "lat": 41.006,
+     "lon": -73.0
+    },
+    {
+     "lat": 41.007,
+     "lon": -73.0
+    },
+    {
+     "lat": 41.008,
+     "lon": -73.0
+    },
+    {
+     "lat": 41.009,
+     "lon": -73.0
+    },
+    {
+     "lat": 41.01,
+     "lon": -73.0
+    }
+   ],
+   "tags": {
+    "highway": "path",
+    "sac_scale": "mountain_hiking"
+   }
+  },
+  {
+   "type": "way",
+   "id": 1002,
+   "geometry": [
+    {
+     "lat": 41.0,
+     "lon": -72.99
+    },
+    {
+     "lat": 41.001,
+     "lon": -72.99
+    },
+    {
+     "lat": 41.002,
+     "lon": -72.99
+    },
+    {
+     "lat": 41.003,
+     "lon": -72.99
+    },
+    {
+     "lat": 41.004,
+     "lon": -72.99
+    },
+    {
+     "lat": 41.005,
+     "lon": -72.99
+    },
+    {
+     "lat": 41.006,
+     "lon": -72.99
+    },
+    {
+     "lat": 41.007,
+     "lon": -72.99
+    },
+    {
+     "lat": 41.008,
+     "lon": -72.99
+    },
+    {
+     "lat": 41.009,
+     "lon": -72.99
+    },
+    {
+     "lat": 41.01,
+     "lon": -72.99
+    }
+   ],
+   "tags": {
+    "highway": "track",
+    "name": "Old Quarry Road"
+   }
+  },
+  {
+   "type": "way",
+   "id": 1003,
+   "geometry": [
+    {
+     "lat": 41.0,
+     "lon": -72.995
+    }
+   ],
+   "tags": {
+    "highway": "footway",
+    "name": "Too Short"
+   }
+  },
+  {
+   "type": "way",
+   "id": 1004,
+   "geometry": [
+    {
+     "lat": 41.0,
+     "lon": -72.98
+    },
+    {
+     "lat": 41.001,
+     "lon": -72.98
+    },
+    {
+     "lat": 41.002,
+     "lon": -72.98
+    },
+    {
+     "lat": 41.003,
+     "lon": -72.98
+    },
+    {
+     "lat": 41.004,
+     "lon": -72.98
+    },
+    {
+     "lat": 41.005,
+     "lon": -72.98
+    },
+    {
+     "lat": 41.006,
+     "lon": -72.98
+    },
+    {
+     "lat": 41.007,
+     "lon": -72.98
+    },
+    {
+     "lat": 41.008,
+     "lon": -72.98
+    },
+    {
+     "lat": 41.009,
+     "lon": -72.98
+    },
+    {
+     "lat": 41.01,
+     "lon": -72.98
+    }
+   ],
+   "tags": {
+    "highway": "footway",
+    "ref": "FW-7"
+   }
+  },
+  {
+   "type": "relation",
+   "id": 5001,
+   "members": [
+    {
+     "type": "way",
+     "ref": 1001,
+     "role": ""
+    }
+   ],
+   "tags": {
+    "route": "hiking",
+    "name": "Test Ridge Trail"
+   }
+  }
+ ]
+}
